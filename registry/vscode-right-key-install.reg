@@ -1,0 +1,21 @@
+Windows Registry Editor Version 5.00
+; Open files
+[HKEY_CLASSES_ROOT\*\shell\Open with VS Code]
+@="以 VS Code 編輯"
+"Icon"="C:\\coder\\VSCodePortable\\VSCodePortable.exe,0"
+[HKEY_CLASSES_ROOT\*\shell\Open with VS Code\command]
+@="\"C:\\coder\\VSCodePortable\\VSCodePortable.exe\" \"%1\""
+; This will make it appear when you right click ON a folder
+; The "Icon" line can be removed if you don't want the icon to appear
+[HKEY_CLASSES_ROOT\Directory\shell\vscode]
+@="將資料夾以 VS Code 專案開啟"
+"Icon"="\"C:\\coder\\VSCodePortable\\VSCodePortable.exe\",0"
+[HKEY_CLASSES_ROOT\Directory\shell\vscode\command]
+@="\"C:\\coder\\VSCodePortable\\VSCodePortable.exe\" \"%1\""
+; This will make it appear when you right click INSIDE a folder
+; The "Icon" line can be removed if you don't want the icon to appear
+[HKEY_CLASSES_ROOT\Directory\Background\shell\vscode]
+@="將資料夾以 VS Code 專案開啟"
+"Icon"="\"C:\\coder\\VSCodePortable\\VSCodePortable.exe\",0"
+[HKEY_CLASSES_ROOT\Directory\Background\shell\vscode\command]
+@="\"C:\\coder\\VSCodePortable\\VSCodePortable.exe\" \"%V\""

@@ -1,0 +1,21 @@
+[
+	"Selezionare uno script",
+	"Non sono disponibili script caricati",
+	"Selezionare il processo node.js o gulp a cui collegarsi",
+	"Avvia programma",
+	"Configurazione di lancio creata per '{0}' progetto/i.",
+	"Configurazione di lancio creata sulla base di 'package.json'.",
+	"La configurazione di lancio creata eseguirà il debug del file nell'editor attivo.",
+	"Regolare il/i pattern glob nell'attributo 'outFiles' in modo che includa/no il codice JavaScript generato.",
+	"Utilizzare IntelliSense per esplorare possibili attributi di debug di Node.js .",
+	"Al passaggio del mouse vengono visualizzate le descrizioni degli attributi esistenti.",
+	"Per ulteriori informazioni, visitare: {0}",
+	"Debug con protocollo legacy perché è impostato un eseguibile di runtime.",
+	"Debug con protocollo inspector perché è stato rilevato Node.js {0} .",
+	"Debug con protocollo legacy perché è stato rilevato Node.js {0} .",
+	"Debug con protocollo legacy perché non è stato possibile determinare la versione di Node.js .",
+	"Il debug verrà eseguito con il protocollo legacy perché il collegamento a un processo in base all'ID è supportato solo per il protocollo legacy.",
+	"Debug con protocollo inspector perché è stato rilevato.",
+	"Debug con protocollo legacy perché è stato rilevato.",
+	"Debug con protocollo legacy perché non è stato possibile determinare la versione di Node.js : {0}"
+]

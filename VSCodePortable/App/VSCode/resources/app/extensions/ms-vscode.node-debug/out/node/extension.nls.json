@@ -1,0 +1,49 @@
+{
+	"messages": [
+		"Select a script",
+		"No loaded scripts available",
+		"Pick the node.js or gulp process to attach to",
+		"Launch Program",
+		"Launch configuration for '{0}' project created.",
+		"Launch configuration created based on 'package.json'.",
+		"Launch configuration created will debug file in the active editor.",
+		"Adjust glob pattern(s) in the 'outFiles' attribute so that they cover the generated JavaScript.",
+		"Use IntelliSense to learn about possible Node.js debug attributes.",
+		"Hover to view descriptions of existing attributes.",
+		"For more information, visit: {0}",
+		"Debugging with legacy protocol because a runtime executable is set.",
+		"Debugging with inspector protocol because Node.js {0} was detected.",
+		"Debugging with legacy protocol because Node.js {0} was detected.",
+		"Debugging with legacy protocol because Node.js version could not be determined.",
+		"Debugging with legacy protocol because attaching to a process by ID is only supported for legacy protocol.",
+		"Debugging with inspector protocol because it was detected.",
+		"Debugging with legacy protocol because it was detected.",
+		"Debugging with legacy protocol because Node.js version could not be determined: {0}"
+	],
+	"keys": [
+		"select.script",
+		"no.loaded.scripts",
+		"pickNodeProcess",
+		"node.launch.config.name",
+		{
+			"key": "mern.starter.explanation",
+			"comment": [
+				"argument contains product name without translation"
+			]
+		},
+		"program.guessed.from.package.json.explanation",
+		"program.fall.back.explanation",
+		"outFiles.explanation",
+		"launch.config.comment1",
+		"launch.config.comment2",
+		"launch.config.comment3",
+		"protocol.switch.runtime.set",
+		"protocol.switch.inspector.version",
+		"protocol.switch.legacy.version",
+		"protocol.switch.unknown.version",
+		"protocol.switch.attach.process",
+		"protocol.switch.inspector.detected",
+		"protocol.switch.legacy.detected",
+		"protocol.switch.unknown.error"
+	]
+}

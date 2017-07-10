@@ -1,0 +1,21 @@
+[
+	"Sélectionner un script",
+	"Aucun script chargé n'est disponible",
+	"Sélectionnez le processus node.js ou gulp à attacher",
+	"Lancer le programme",
+	"Configuration de lancement du projet '{0}' créée.",
+	"Configuration de lancement créée en fonction de 'package.json'.",
+	"La configuration de lancement créée débogue le fichier dans l'éditeur actif.",
+	"Ajustez le ou les modèles glob dans l'attribut 'outFiles' pour qu'ils couvrent le fichier JavaScript généré.",
+	"Utilisez IntelliSense pour découvrir les attributs de débogage Node.js possibles.",
+	"Pointez pour afficher la description des attributs existants.",
+	"Pour plus d'informations, visitez : {0}",
+	"Débogage à l'aide du protocole hérité, car un exécutable (runtime) est défini.",
+	"Débogage à l'aide du protocole inspector, car Node.js {0} a été détecté.",
+	"Débogage à l'aide du protocole hérité, car Node.js {0} a été détecté.",
+	"Débogage à l'aide du protocole hérité, car la version de Node.js n'a pas pu être déterminée.",
+	"Débogage à l'aide du protocole hérité, car l'attachement à un processus par ID n'est pris en charge que pour le protocole hérité.",
+	"Débogage avec le protocole Inspector car il a été détecté.",
+	"Débogage avec un protocole hérité car il a été détecté.",
+	"Débogage avec un protocole hérité en raison de l'impossibilité de déterminer la version de Node.js : {0}"
+]

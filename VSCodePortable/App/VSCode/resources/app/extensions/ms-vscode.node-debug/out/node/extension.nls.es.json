@@ -1,0 +1,21 @@
+[
+	"Seleccione un script",
+	"No hay scripts cargados disponibles",
+	"Elija el proceso de node.js o Gulp para la asociación",
+	"Iniciar programa",
+	"La configuración de inicio del proyecto '{0}' fue creada. ",
+	"La configuración de inicio fue creada basada en \"package.json\".",
+	"La configuración de inicio fue creada. El archivo de depuración está activo en el editor. ",
+	"Ajusta modelos globales en los atributos ‘outFiles’ para cubrir el código JavaScript generado.",
+	"Utilice IntelliSense para aprender sobre los atributos de depuración de Node.js. ",
+	"Mantenga el puntero para ver las descripciones de los existentes atributos ",
+	"Para más información, visite: {0}",
+	"Depuración con el protocolo heredado porque hay un ejecutable en tiempo de ejecución configurado.",
+	"Depurando con el protocolo de inspector ya que se detectó Node.js {0}.",
+	"Depurando con el protocolo heredado ya que se detectó Node.js {0}.",
+	"Depurando con el protocolo heredado ya que no se pudo determinar la versión de Node.js.",
+	"Depurando con protocolos heredados porque la asociación a un proceso por el id. solo se admite para protocolos heredados.",
+	"Depurando con el protocolo inspector porque se ha detectado.",
+	"Depurando con el protocolo heredado porque se ha detectado.",
+	"Depurando con el protocolo heredado porque no se pudo determinar la versión de Node.js: {0}"
+]

@@ -1,0 +1,18 @@
+// 將您的設定放入此檔案中以覆寫預設值
+{
+    "git.path": "C:\\coder\\cmder\\vendor\\git-for-windows\\bin\\git.exe",
+    "php.validate.executablePath": "C:\\coder\\UniServerZ\\core\\php71\\php.exe",
+	// "editor.fontSize": 12,
+	"editor.mouseWheelZoom": true,
+    "editor.formatOnType": true,
+    "editor.renderIndentGuides": true,
+    "files.autoSave": "off",
+    "files.autoSaveDelay": 1000,
+    // "workbench.colorTheme": "Atom One Dark",
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+	"terminal.integrated.fontSize": 12,
+    //使用者自行定義設定
+    "open-in-browser.default": "chrome",
+    "php.executablePath": "C:\\coder\\UniServerZ\\core\\php71\\php.exe",
+    "editor.minimap.enabled": true
+}
