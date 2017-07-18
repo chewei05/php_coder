@@ -9,7 +9,6 @@
 @REM  My Custom Environment Variables - Set PHP, Apache, MySQL & Composer Folder
 @REM ----------------------------------------------------------------------------
 FOR %%i IN ("%CMDER_ROOT%\..") DO SET PortableCodingProgramDir=%%~fi
-::SET PortableCodingProgramDir=C:\coder
 SET UniformServerDir=%PortableCodingProgramDir%\UniServerZ
 SET UniformServerCoreDir=%UniformServerDir%\core
 SET PhpDir=%UniformServerCoreDir%\php71

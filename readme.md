@@ -10,10 +10,11 @@
     - PHP 7.1.1
     - MySQL v5.5
     - phpMyAdmin 4.6.6
-2. [Cmder](http://cmder.net/) 1.3.2 (With [Git-for-Windows](https://git-scm.com/download/win) 2.13.0)
-3. [Composer](https://getcomposer.org/) 1.4.2
-4. [Node.js](https://nodejs.org/en/) 8.1.2 (npm 5.0.3)
-5. [Virtual Studio Code](https://code.visualstudio.com/) 1.12.2 (portable)
+2. [Cmder](http://cmder.net/) 1.3.2
+3. [Git-for-Windows](https://git-scm.com/download/win) 2.13.0
+4. [Composer](https://getcomposer.org/) 1.4.2
+5. [Node.js](https://nodejs.org/en/) 8.1.2 (npm 5.0.3)
+6. [Virtual Studio Code](https://code.visualstudio.com/) 1.12.2 (portable)
 
 ### 其中 UniForm Server Zero 至少需要「Microsoft Visual C++ 2015 可轉散發套件 Update 1」以上版本才能正常執行，請自行下載安裝，僅需下載 32 位元版本即可。
 
